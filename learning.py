@@ -1,14 +1,4 @@
-def sum(d,e):
-    return d+e
-
-def diff(d,e):
-    return d-e
-
-def mul(d,e):
-    return d*e
-
-def div(d,e):
-    return d/e
+vtft66tyttyvtyvytvyvy
 
 def operations(d,e,cmnd):
 
